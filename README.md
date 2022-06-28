@@ -1,42 +1,38 @@
 <h1 align="center">
-  Ignite Template React Js Criando um Projeto do Zero
+  Ignite Template React Js Creating a Project from Scratch
 </h1>
 
-<h2 align="center">
-	🚧  Sobre o Desafio...  🚧
-</h2>
+### 🚧About the Challenge... 🚧
 
-```bash
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
+In this challenge, you must create an application to train what you have learned so far in ReactJS. This will be an application where your main objective is to create a blog from scratch. You will receive a practically blank application that must consume Prismic data and have the interface implemented according to Figma's layout. You will have access to several files to deploy.
 
-Essa será uma aplicação onde o seu principal objetivo é criar um blog do zero. Você vai receber uma aplicação praticamente em branco que deve consumir os dados do Prismic e ter a interface implementada conforme o layout do Figma. Você terá acesso a diversos arquivos para implementar:
+Next, we will see in more detail what and how it needs to be done.🚀
 
-A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
-```
+### Project Image
 
 <h1 align="center">
     <a href="https://imgur.com/TgLgN2s"><img src="https://i.imgur.com/TgLgN2s.png" title="source: imgur.com" /></a>
 </h1>
 
-🚀 Demanda que foi realizada na aplicação. 📄
+🚀 Demand that was performed in the application. 📄
 
-### Features
+### Features the project
 
--   [x] Estilizações global, comum e individuais;;
--   [x] Importação de fontes Google;
--   [x] Paginação de posts;
--   [x] Cálculo de tempo estimado de leitura do post;
--   [x] Geração de páginas estáticas com os métodos `getStaticProps` e `getStaticPaths`;
--   [x] Formatação de datas com `date-fns`;
--   [x] Uso de ícones com `react-icons`;
--   [x] Requisições HTTP com `fetch`;
--   [x] Muitos outros detalhes;
+-   [x] Global, common and individual styles;
+-   [x] Importing Google Fonts;
+-   [x] Post pagination;
+-   [x] Estimated post reading time calculation;
+-   [x] Generating static pages with methods `getStaticProps` e `getStaticPaths`;
+-   [x]Date formatting with `date-fns`;
+-   [x] Use of icons with `react-icons`;
+-   [x] HTTP requests with `fetch`;
+-   [x] Many other details;
 
-## ✅ Para rodar o projeto
+## ✅ To run the project
 
-Clone o projeto em seu computador ou notebook, rode o comando `yarn` e em seguida
-`yarn android`. Atualmente o projeto não necessita de nenhuma variável ambiente,
-então, é simples;
+Clone the project on your computer or notebook, run the command `yarn` and then
+`yarn android` or `yarn ios` on both platform. Currently the project does not need any environment variable,
+so it's simple;
 
 ```bash
 # Clone this repository
@@ -63,11 +59,11 @@ $ yarn start
 
 ## :memo: License
 
-Este projeto está sob a licença MIT. Leia aqui [LICENSE](https://github.com/SilvaneiMartins/ignite-template-reactjs-criando-um-projeto-do-zero/blob/master/LICENSE) Para maiores informações.
+This project is under the MIT license. read here [LICENSE](https://github.com/SilvaneiMartins/ignite-template-reactjs-criando-um-projeto-do-zero/blob/master/LICENSE) For more informations.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 -   [react-js](https://reactjs.org/)
 -   [react](https://pt-br.reactjs.org)
@@ -86,11 +82,11 @@ Este projeto está sob a licença MIT. Leia aqui [LICENSE](https://github.com/Si
  <img style="border-radius: "50px";" src="https://github.com/SilvaneiMartins.png" width="100px;" alt="Silvanei Martins"/>
  <br />
  <sub>
-    <b>Silvanei de Almeida Martins</b>
+    <b>Silvanei Martins</b>
 </sub>
 </a>
      <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
     🚀
  </a>
 
-Feito com muito ❤️ por Silvanei Martins
+Made with a lot ❤️ per Silvanei Martins.
