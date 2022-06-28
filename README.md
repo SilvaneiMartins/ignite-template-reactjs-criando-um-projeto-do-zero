@@ -9,14 +9,14 @@
 <h4 align="left">
     Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 
-    Essa será uma aplicação onde o seu principal objetivo é criar um blog do zero. Você vai receber uma aplicação praticamente em branco que deve consumir os dados do Prismic e ter a interface implementada conforme o layout do Figma. Você terá acesso a diversos arquivos para implementar:
+    Essa será uma aplicação onde o seu principal objetivo é criar um blog do zero. Você vai receber uma aplicação<br /> praticamente em branco que deve consumir os dados do Prismic e ter a interface implementada conforme o layout do Figma.<br /> Você terá acesso a diversos arquivos para implementar:
 
     A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
 </h4>
 
 <h1 align="center">
-    <a href="https://imgur.com/4bSsOQi"><img src="https://i.imgur.com/4bSsOQi.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/aLXaDCV"><img src="https://i.imgur.com/aLXaDCV.png" title="source: imgur.com" /></a>
 </h1>
 
 🚀 Demanda que foi realizada na aplicação. 📄
