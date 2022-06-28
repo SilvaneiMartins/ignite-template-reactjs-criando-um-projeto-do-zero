@@ -23,7 +23,7 @@ Next, we will see in more detail what and how it needs to be done.🚀
 -   [x] Post pagination;
 -   [x] Estimated post reading time calculation;
 -   [x] Generating static pages with methods `getStaticProps` e `getStaticPaths`;
--   [x]Date formatting with `date-fns`;
+-   [x] Date formatting with `date-fns`;
 -   [x] Use of icons with `react-icons`;
 -   [x] HTTP requests with `fetch`;
 -   [x] Many other details;
