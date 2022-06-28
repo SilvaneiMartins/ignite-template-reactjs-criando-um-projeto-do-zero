@@ -6,13 +6,11 @@
 	🚧  Sobre o Desafio...  🚧
 </h2>
 
-<p align="left">
-    Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
+    ** Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS**
 
     Essa será uma aplicação onde o seu principal objetivo é criar um blog do zero. Você vai receber uma aplicação praticamente em branco que deve consumir os dados do Prismic e ter a interface implementada conforme o layout do Figma. Você terá acesso a diversos arquivos para implementar:
 
     A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
-</p>
 
 <h1 align="center">
     <a href="https://imgur.com/TgLgN2s"><img src="https://i.imgur.com/TgLgN2s.png" title="source: imgur.com" /></a>
